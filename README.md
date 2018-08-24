@@ -42,4 +42,8 @@ Documentation:
     
     text-hide-{xs/sm/md/lg}-{up/down}
     
+  NOTE:
+  For reference on original classes and their uses, please see the Bootstrap Documentation
+  https://getbootstrap.com/docs/4.1/utilities/borders/
+    
    
